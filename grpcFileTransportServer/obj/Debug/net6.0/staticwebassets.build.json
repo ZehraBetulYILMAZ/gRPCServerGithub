@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "iQ+roQO+PH4a5sZb4q06RB0l4qDXS87OmxJMZxYo1WU=",
+  "Source": "grpcFileTransportServer",
+  "BasePath": "_content/grpcFileTransportServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "grpcFileTransportServer\\wwwroot",
+      "Source": "grpcFileTransportServer",
+      "ContentRoot": "D:\\grpcFileTransportServer\\grpcFileTransportServer\\wwwroot\\",
+      "BasePath": "_content/grpcFileTransportServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\grpcFileTransportServer\\grpcFileTransportServer\\wwwroot\\files\\Otel_Otomasyon_Projesi (1).pdf",
+      "SourceId": "grpcFileTransportServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\grpcFileTransportServer\\grpcFileTransportServer\\wwwroot\\",
+      "BasePath": "_content/grpcFileTransportServer",
+      "RelativePath": "files/Otel_Otomasyon_Projesi (1).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\Otel_Otomasyon_Projesi (1).pdf"
+    }
+  ]
+}
